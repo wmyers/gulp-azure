@@ -3,4 +3,4 @@ A collection of required files to deploy with a node application on Azure, and s
 To find out more about deploying node apps onto Azure, read this blog post:
 <http://wmyers.github.io/technical/nodejs/Deploying-a-Node-Express-app-on-Azure/>
 
-Additional info for deploying a custom version of node [here]('./azure/bin/README.md').
+Additional info for deploying a custom version of node [here](./azure/bin/README.md).
