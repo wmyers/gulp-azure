@@ -1,0 +1,4 @@
+loggingEnabled: true
+devErrorsEnabled: true
+# uncomment this line to use a custom node.exe version included in your bin folder
+# nodeProcessCommandLine: "D:\home\site\wwwroot\bin\node.exe"
